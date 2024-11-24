@@ -1,4 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  output: 'stanalone'}
 
-export default nextConfig;
+module.exports = nestConfigexport
