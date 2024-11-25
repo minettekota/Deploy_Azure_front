@@ -1,6 +1,6 @@
 /** @type 
 {import('next').NextConfig} */
 const nextConfig = {
-  output: 'stanalone'}
+  output: 'standalone'}
 
 module.exports = nestConfig
